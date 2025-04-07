@@ -1,0 +1,3 @@
+RSA is an asymmetric algorithm, slower, but good for securely sharing keys. 
+AES is symmetric, much faster and ideal for encrypting large files. 
+In practice, RSA encrypts the AES key, and AES encrypts the actual data.
